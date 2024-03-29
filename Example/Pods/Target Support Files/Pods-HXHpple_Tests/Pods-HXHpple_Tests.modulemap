@@ -1,0 +1,6 @@
+framework module Pods_HXHpple_Tests {
+  umbrella header "Pods-HXHpple_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

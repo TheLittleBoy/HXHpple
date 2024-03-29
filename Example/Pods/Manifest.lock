@@ -1,0 +1,16 @@
+PODS:
+  - HXHpple (0.1.0)
+
+DEPENDENCIES:
+  - HXHpple (from `../`)
+
+EXTERNAL SOURCES:
+  HXHpple:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HXHpple: bd18c0d6c472fe000ca71dccf58aad20b8049ad9
+
+PODFILE CHECKSUM: 2ffab2cf2e442e240661521e5eea65a3e594187b
+
+COCOAPODS: 1.15.2

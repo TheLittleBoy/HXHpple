@@ -1,0 +1,6 @@
+framework module HXHpple {
+  umbrella header "HXHpple-umbrella.h"
+
+  export *
+  module * { export * }
+}
